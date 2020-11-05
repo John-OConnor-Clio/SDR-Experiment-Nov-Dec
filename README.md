@@ -1,11 +1,17 @@
 By dedicating 2 SDRs to inbound phone and chat, we hypothesize that our MQL-to-Opp conversions rates will improve due to these factors:
-   1. Less context switching will allow SDR’s to remain in flow for more of their day.  As a result, we expect the 2 dedicated SDRs to follow-up on x% more MQLs and the other SDRs to follow-up on y% more MQLs.
-  2. This will allow the 2 dedicated SDR to respond to x% more live chats and y% more talkdesk calls (rather than going to voicemail or dropping off), resulting in a z% increase in MQL-to-Opp conversions.
-  3. This will also allow the non-dedicated SDRs to follow-up on a higher portion of MQLs faster, therefore improving their MQL-to-Opp conversion rates by x%.
-As a net result of all of this, our overall MQL-to-Opp conversion will increase from our historical x% (based on the last 3 months) to y%.
+   1. Less context switching will allow SDR’s to remain in flow for more of their day.  As a result, we expect the 2 dedicated SDRs to follow-up on 25% more MQLs and the other SDRs to follow-up on 10.5% more MQLs.
+  2. This will allow the 2 dedicated SDR to respond to 10% more live chats and 20% more talkdesk calls (rather than going to voicemail or dropping off), resulting in a 10% increase in MQL-to-Opp conversions.
+  3. This will also allow the non-dedicated SDRs to follow-up on a higher portion of MQLs faster, therefore improving their MQL-to-Opp conversion rates by 10%.
+As a net result of all of this, our overall MQL-to-Opp conversion will increase from our historical 26.83% (based on the last 3 months) to 36.8%.
 
-MQL to Opp CR% by source/Rep: https://themis-solutions.my.salesforce.com/00O2G000005syjb
-MQL to Opp CR% Drift and TalkDesk Only: https://themis-solutions.my.salesforce.com/00O2G000005syjv
+MQL to Opp CR% by source/Rep: https://themis-solutions.my.salesforce.com/00O2G000005sykK
+MQL to Opp CR% Drift and TalkDesk Only: https://themis-solutions.my.salesforce.com/00O2G000005sykP
+
+CR% overall: 28.72%
+Drift: 39.8%
+TalkDesk: 69.12%
+Just TalkDesk and Drift: 46.71%
+Combined for All other MQL's: 26.83%
 
 Talk Desk Raw numbers for October: https://docs.google.com/spreadsheets/d/14h0erS2WfbaRJv9s52_a-tbWW8uif5KtwVBDx2-9Q-s/edit?usp=sharing
 
